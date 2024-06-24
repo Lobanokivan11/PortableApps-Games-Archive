@@ -2,6 +2,7 @@
 Archive of Games For PlatformApps Platform.
 
 # How to install to PlatformApps Platform
+# Chapter 7-8-9 from instructions is about fixing a game
 1. Download any favorite game from repository
 2. insert your flash drive with PortableApps Platform and click to Start.exe on flash drive root (IF Autorun.inf DOESN'T WORK AND PortableApps Platform DOESN'T STARTING AUTOMATIC)
 3. In PortableApps Platform Start Menu Start Click Button (APPS) and them click button (install a new app [paf.exe])
